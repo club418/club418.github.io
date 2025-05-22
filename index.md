@@ -4,6 +4,7 @@ title: Bienvenue
 ---
 
 # club418
+![Logo club418](/club418.png)
 
 Bienvenue sur le site de notre association !  
 Nous œuvrons pour un numérique éthique, accessible et solidaire.
