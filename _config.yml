@@ -1,1 +1,22 @@
+title: "club418"
+description: "Association pour la promotion du numérique citoyen"
+url: "https://club418.github.io"
+baseurl: ""
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - node_modules
+
+club418:
+  email: "contact@club418.org"
+  reseaux:
+    twitter: "https://twitter.com/club_418"
+    github: "https://github.com/club418"
