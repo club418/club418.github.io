@@ -1,19 +1,16 @@
 ---
-layout: default
+layout: page
 title: À propos
 permalink: /about/
 ---
 
 # À propos de club418
 
-**club418** est une association à but non lucratif qui a pour mission de :
+**club418** est une association loi 1901 fondée par trois développeurs engagés.  
+Notre mission est de :
 
-- Fédérer les acteurs du numérique citoyen
-- Obtenir des financements publics et privés
-- Organiser des événements pour promouvoir les usages positifs de la tech
+- Soutenir les initiatives tech citoyennes
+- Trouver des financements publics et privés
+- Créer du lien entre les acteurs locaux
 
-## Nos valeurs
-
-- 👐 Accessibilité
-- 🔍 Transparence
-- 🤝 Collaboration
+📫 Contact : [contact@club418.org](mailto:contact@club418.org)

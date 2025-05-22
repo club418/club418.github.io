@@ -1,13 +1,14 @@
 ---
-layout: default
-title: Accueil
+layout: home
+title: Bienvenue
 ---
 
-# Bienvenue chez **club418**
+# club418
 
-Bienvenue sur le site de notre association.  
-Nous construisons une communauté tech engagée, accessible et ouverte à tous.
+Bienvenue sur le site de notre association !  
+Nous œuvrons pour un numérique éthique, accessible et solidaire.
 
-📅 Lancement prévu : **avant le 1er août 2025**
+📅 Objectif : lancement avant le 1er août 2025  
+🤝 Mécènes & partenaires bienvenus !
 
-💌 Contact : [contact@club418.org](mailto:contact@club418.org)
+[En savoir plus](/about/)

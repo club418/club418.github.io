@@ -1,8 +1,8 @@
 title: "club418"
 description: "Association pour la promotion du numérique citoyen"
 url: "https://club418.github.io"
-baseurl: "" # Laisse vide si ton dépôt s'appelle club418.github.io
-theme: jekyll-theme-midnight
+baseurl: "" # vide si le dépôt s'appelle club418.github.io
+theme: minima
 
 plugins:
   - jekyll-feed
@@ -11,14 +11,8 @@ plugins:
 markdown: kramdown
 permalink: pretty
 
-exclude:
-  - README.md
-  - node_modules
-  - Gemfile
-  - Gemfile.lock
-
-club418:
-  email: "contact@club418.org"
-  reseaux:
-    twitter: "https://twitter.com/club_418"
-    github: "https://github.com/club418"
+minima:
+  skin: classic # options : classic, dark, solarized
+  social_links:
+    github: club418
+    twitter: club_418
