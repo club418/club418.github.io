@@ -1,10 +1,10 @@
 ---
 layout: page
-title: À propos
-permalink: /about/
+title: Projet associatif
+permalink: /projet-associatif/
 ---
 
-# À propos de club418
+# Projet associatif du Club418
 
 **club418** est une association loi 1901 fondée par trois développeurs engagés.  
 Notre mission est de :
@@ -13,4 +13,4 @@ Notre mission est de :
 - Trouver des financements publics et privés
 - Créer du lien entre les acteurs locaux
 
-📫 Contact : [contact@club418.org](mailto:contact@club418.org)
+📫 Contact : [club418.poitiers@gmail.com](mailto:club418.poitiers@gmail.com)
