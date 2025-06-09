@@ -4,12 +4,18 @@ title: Bienvenue
 ---
 
 # club418
-![Logo club418](/club418.png)
+![Logo club418](/assets/images/logo.png)
 
-Bienvenue sur le site de notre association !  
-Nous œuvrons pour un numérique éthique, accessible et solidaire.
+## Projet associatif
+Résumé du projet associatif + Lien vers la page projet associatif
+[En savoir plus](/projet-associatif/)
 
-📅 Objectif : lancement avant le 1er août 2025  
-🤝 Mécènes & partenaires bienvenus !
+## Pourquoi adhérer ?
+Résumé + Lien vers la page pourquoi adhérer
+[Pourquoi adhérer](/pourquoi-adherer/)
 
-[En savoir plus](/about/)
+## Comment adhérer ?
+Résumé + Lien vers la page comment adhérer
+[Comment adhérer](/comment-adherer/)
+
+
