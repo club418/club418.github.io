@@ -4,7 +4,7 @@ title: Pourquoi et comment adhérer ?
 permalink: /pourquoi-comment-adherer/
 ---
 
-# Pourquoi adhérer ?
+## Pourquoi adhérer ?
 
 Adhérer au CLUB 418, c’est avant tout un engagement militant : ta cotisation permet de maintenir les événements déjà co-organisés et de continuer à __faire vivre l’écosystème tech local__.
 
@@ -14,7 +14,7 @@ Plus l’association durera, plus elle nous donnera la possibilité de __créer 
 
 Et pour les pros, on prépare bientôt des avantages supplémentaires afin de renforcer encore plus les synergies locales.
 
-# Comment adhérer ?
+## Comment adhérer ?
 
 L’adhésion se fait en __deux étapes__ : tu remplis le formulaire sur HelloAsso, puis tu ouvres une PR sur notre dépôt pour ajouter ton nom à la page des adhérents.
 
