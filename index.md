@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Bienvenue
+title: Accueil
+order: 1
 ---
 
 # club418

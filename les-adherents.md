@@ -2,6 +2,7 @@
 layout: page
 title: Ils sont ou ont été adhérents au Club418
 permalink: /les-adherents/
+order: 5
 ---
 
 # Ils sont adhérents ou ont été adhérents au Club418

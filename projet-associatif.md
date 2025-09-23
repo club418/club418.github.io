@@ -2,6 +2,7 @@
 layout: page
 title: Projet associatif
 permalink: /projet-associatif/
+order: 2
 ---
 
 # Projet associatif du Club418
