@@ -6,8 +6,6 @@ permalink: /projet-associatif/
 
 # Projet associatif du Club418
 
-Le projet associatif
-
 Le CLUB 418 est né à Poitiers, suite à la fin d'un cluster qui fédérait jusque-là une grande partie de l’écosystème numérique local. On s’est dit que la communauté tech ne devait pas rester orpheline : il fallait recréer une asso pour se retrouver, échanger et continuer à faire vivre la culture web ici.
 
 On (Yoann, Alexandre et Nicolas) s'est rencontrés grâce à l’AFUP Poitiers, dont nous co-organisons encore les soirées PHP. Dans la continuité, le CLUB 418 veut ouvrir l’espace à tous les curieux du web, du dev et de la tech en général.

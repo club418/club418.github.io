@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pourquoi & comment adhérer ?
+title: Pourquoi et comment adhérer ?
 permalink: /pourquoi-comment-adherer/
 ---
 
