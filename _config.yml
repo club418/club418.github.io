@@ -14,8 +14,7 @@ permalink: pretty
 header_pages:
   - index.md
   - projet-associatif.md
-  - pourquoi-adherer.md
-  - comment-adherer.md
+  - pourquoi-comment-adherer.md
   - les-adherents.md
 
 minima:
