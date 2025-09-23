@@ -4,19 +4,18 @@ title: Accueil
 order: 1
 ---
 
-# club418
+# CLUB 418
 ![Logo club418](/assets/images/logo.png)
 
 ## Projet associatif
-Résumé du projet associatif + Lien vers la page projet associatif
+CLUB 418, c’est l’asso qui fait vivre la HTTP à Poitiers : on co-organise des meetups et événements web pour créer du lien et partager nos passions.
 [En savoir plus](/projet-associatif/)
 
-## Pourquoi adhérer ?
-Résumé + Lien vers la page pourquoi adhérer
-[Pourquoi adhérer](/pourquoi-adherer/)
+## Pourquoi & comment adhérer ?
+Adhérer, c’est soutenir un élan militant : ta cotisation finance apéros & speakers, et permet à l’écosystème de grandir. 👉 [Rejoins-nous](/pourquoi-comment-adherer/) et contribue à faire durer la communauté !
 
-## Comment adhérer ?
-Résumé + Lien vers la page comment adhérer
-[Comment adhérer](/comment-adherer/)
+## Nos adhérents
+Nos membres, ce sont les visages derrière la communauté. Viens découvrir qui fait vivre le CLUB 418 (et ajoute ton nom via une PR 😉).
+[Adhérents](/comment-adherer/)
 
 
