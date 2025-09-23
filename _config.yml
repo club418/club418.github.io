@@ -11,6 +11,13 @@ plugins:
 markdown: kramdown
 permalink: pretty
 
+header_pages:
+  - index.md
+  - projet-associatif.md
+  - pourquoi-adherer.md
+  - comment-adherer.md
+  - les-adherents.md
+
 minima:
   skin: classic # options : classic, dark, solarized
   social_links:
