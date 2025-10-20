@@ -16,7 +16,7 @@ Et pour les pros, on prépare bientôt des avantages supplémentaires afin de re
 
 ## Comment adhérer ?
 
-L’adhésion se fait en __deux étapes__ : tu remplis le formulaire sur HelloAsso, puis tu ouvres une PR sur notre dépôt pour ajouter ton nom à la page des adhérents.
+L’adhésion se fait en __deux étapes__ : tu remplis le formulaire sur [HelloAsso](https://www.helloasso.com/associations/club-418/adhesions/adhesion-annuelle-club-418), puis tu ouvres une PR sur notre dépôt pour ajouter ton nom à la page des adhérents.
 
 Le montant est libre : __30 € pour les particuliers, 200 € pour les pros__, ou ce que tu peux donner. On estime que 30 €, c’est le coût minimum qu’une personne représente si elle participe à tous les événements.
 

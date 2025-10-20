@@ -16,6 +16,6 @@ Adhérer, c’est soutenir un élan militant : ta cotisation finance apéros & s
 
 ## Nos adhérents
 Nos membres, ce sont les visages derrière la communauté. Viens découvrir qui fait vivre le CLUB 418 (et ajoute ton nom via une PR 😉).
-[Adhérents](/comment-adherer/)
+[Adhérents](/pourquoi-comment-adherer/)
 
 
