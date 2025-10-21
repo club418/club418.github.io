@@ -8,7 +8,7 @@ order: 1
 ![Logo club418](/assets/images/logo.png)
 
 ## Projet associatif
-CLUB 418, c’est l’asso qui fait vivre la HTTP à Poitiers : on co-organise des meetups et événements web pour créer du lien et partager nos passions.
+CLUB 418, c’est l’asso qui fait vivre le HTTP à Poitiers : on co-organise des meetups et événements web pour créer du lien et partager nos passions.
 [En savoir plus](/projet-associatif/)
 
 ## Pourquoi & comment adhérer ?
