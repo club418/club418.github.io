@@ -12,10 +12,10 @@ CLUB 418, c’est l’asso qui fait vivre le HTTP à Poitiers : on co-organise d
 [En savoir plus](/projet-associatif/)
 
 ## Pourquoi & comment adhérer ?
-Adhérer, c’est soutenir un élan militant : ta cotisation finance apéros & speakers, et permet à l’écosystème de grandir. 👉 [Rejoins-nous](/pourquoi-comment-adherer/) et contribue à faire durer la communauté !
+Adhérer, c’est soutenir une belle dynamique collective : ta cotisation finance apéros & speakers, et permet à l’écosystème de grandir. 👉 [Rejoins-nous](/pourquoi-comment-adherer/) et contribue à faire vivre la communauté !
 
 ## Nos adhérents
 Nos membres, ce sont les visages derrière la communauté. Viens découvrir qui fait vivre le CLUB 418 (et ajoute ton nom via une PR 😉).
-[Adhérents](/pourquoi-comment-adherer/)
+[Adhérents](/les-adherents/)
 
 
