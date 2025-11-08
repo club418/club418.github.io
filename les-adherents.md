@@ -15,9 +15,10 @@ permalink: /les-adherents/
 
 ## Personnes physiques
 
-| Nom | Depuis |
-|---|---|
-| Yoann Leroux | 2025 |
+| Nom                | Depuis |
+|--------------------|---|
+| Yoann Leroux       | 2025 |
+| Alexandre Vingtier | 2025 |
 
 ---
 
