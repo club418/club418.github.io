@@ -19,7 +19,8 @@ permalink: /les-adherents/
 |--------------------|---|
 | Yoann Leroux       | 2025 |
 | Alexandre Vingtier | 2025 |
-| Anthony Thibault | 2025 |
+| Anthony Thibault   | 2025 |
+| Gilles subrenat    | 2025 |
 
 ---
 
