@@ -4,8 +4,7 @@ title: Accueil
 order: 1
 ---
 
-# CLUB 418
-![Logo club418](/charte_anthony_thibault/club418-noir-sur-blanc-avec-fond.png)
+<img src="/charte_anthony_thibault/club418-noir-sur-blanc-avec-fond.png" alt="Logo club418" height="500">
 
 ## Projet associatif
 CLUB 418, c’est l’asso qui fait vivre le HTTP à Poitiers : on co-organise des meetups et événements web pour créer du lien et partager nos passions.
