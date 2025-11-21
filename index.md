@@ -4,7 +4,6 @@ title: Accueil
 order: 1
 ---
 
-# CLUB 418
 ![Logo club418](/charte_anthony_thibault/club418-noir-sur-blanc-avec-fond.png)
 
 ## Projet associatif
