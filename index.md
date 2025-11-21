@@ -5,7 +5,7 @@ order: 1
 ---
 
 # CLUB 418
-![Logo club418](/assets/images/logo.png)
+![Logo club418](/charte_anthony_thibault/club418-noir-sur-blanc-avec-fond.png)
 
 ## Projet associatif
 CLUB 418, c’est l’asso qui fait vivre le HTTP à Poitiers : on co-organise des meetups et événements web pour créer du lien et partager nos passions.
@@ -18,4 +18,6 @@ Adhérer, c’est soutenir une belle dynamique collective : ta cotisation financ
 Nos membres, ce sont les visages derrière la communauté. Viens découvrir qui fait vivre le CLUB 418 (et ajoute ton nom via une PR 😉).
 [Adhérents](/les-adherents/)
 
+## Crédit images
 
+- Anthony Thibault
