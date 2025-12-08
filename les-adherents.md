@@ -18,10 +18,14 @@ permalink: /les-adherents/
 
 | Nom                | Depuis |
 |--------------------|---|
+| Patrick Joubert    | 2025 |
 | Yoann Leroux       | 2025 |
-| Alexandre Vingtier | 2025 |
+| Ladislas Marchand  | 2025 |
+| Alexandre Nonet    | 2025 |
+| Gilles Subrenat    | 2025 |
 | Anthony Thibault   | 2025 |
-| Gilles subrenat    | 2025 |
+| Alexandre Vingtier | 2025 |
+
 
 ---
 
