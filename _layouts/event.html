@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<article class="event">
+  <h2>{{ page.title }}</h2>
+
+  <p>
+    📅 <strong>{{ page.date | date: "%d/%m/%Y à %H:%M" }}</strong>
+  </p>
+
+  {% if page.meetup_link %}
+    <p>
+      🔗 <a href="{{ page.meetup_link }}" target="_blank">
+        Lien de l'événement
+      </a>
+    </p>
+  {% endif %}
+
+  <div class="content">
+    {{ content }}
+  </div>
+</article>

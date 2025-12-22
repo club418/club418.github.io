@@ -15,6 +15,7 @@ header_pages:
   - index.md
   - projet-associatif.md
   - pourquoi-comment-adherer.md
+  - agenda.md
   - les-adherents.md
 
 github_username: club418
@@ -22,3 +23,6 @@ github_username: club418
 minima:
   skin: classic # options : classic, dark, solarized
 
+collections:
+  events:
+    output: true
