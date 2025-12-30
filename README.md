@@ -12,7 +12,7 @@ Site officiel de l'association CLUB 418, pour la promotion du numérique citoyen
 
 #### Configuration
 
-Un fichier `compose.yml` est déjà présent à la racine du projet avec la configuration suivante :
+Un fichier `compose.yml` est déjà présent à la racine du projet.
 
 #### Commandes
 
