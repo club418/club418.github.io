@@ -18,6 +18,7 @@ permalink: /les-adherents/
 
 | Nom                | Depuis |
 |--------------------|---|
+| Ambroise Rougier   | 2026 |
 | Patrick Joubert    | 2025 |
 | Yoann Leroux       | 2025 |
 | Ladislas Marchand  | 2025 |
