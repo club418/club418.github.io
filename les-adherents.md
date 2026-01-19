@@ -20,6 +20,7 @@ permalink: /les-adherents/
 
 | Nom                | Depuis |
 |--------------------|---|
+| Simon Jamain       | 2026 |
 | Ambroise Rougier   | 2026 |
 | Patrick Joubert    | 2025 |
 | Yoann Leroux       | 2025 |
