@@ -9,16 +9,19 @@ permalink: /les-adherents/
 ## Personnes morales
 
 | Organisation                                         | Depuis | À propos                                                            |
-|------------------------------------------------------|---|---------------------------------------------------------------------|
-| [nacorp.fr](https://www.nacorp.fr)                   | 2025 | Expertise en développement web et solutions digitales               |
-| [Yousign<br>(bientôt Youtrust)](https://youtrust.fr) | 2025 | Signez. Vérifiez. Scellez. La confiance numérique en toute sérénité |
-| [Altern'Active<br>](https://www.altern-active.com) | 2025 | Web Solutions - Développement Applis Web  |
-| [TerraCloud, Paul SANTUS](https://www.terracloud.fr)            | 2025 | Expertise en architecture et cloud AWS               |
+|------------------------------------------------------|--------|---------------------------------------------------------------------|
+| [nacorp.fr](https://www.nacorp.fr)                   | 2025   | Expertise en développement web et solutions digitales               |
+| [Yousign<br>(bientôt Youtrust)](https://youtrust.fr) | 2025   | Signez. Vérifiez. Scellez. La confiance numérique en toute sérénité |
+| [Altern'Active<br>](https://www.altern-active.com)   | 2025   | Web Solutions - Développement Applis Web                            |
+| [TerraCloud, Paul SANTUS](https://www.terracloud.fr) | 2025   | Expertise en architecture et cloud AWS                              |
+| jeremyFreeAgent                                      | 2025   | Accompagnement sur PHP Symfony, DDD, Intégration Continue           |
 
 ## Personnes physiques
 
 | Nom                | Depuis |
 |--------------------|---|
+| Simon Jamain       | 2026 |
+| Ambroise Rougier   | 2026 |
 | Patrick Joubert    | 2025 |
 | Yoann Leroux       | 2025 |
 | Ladislas Marchand  | 2025 |
@@ -26,6 +29,7 @@ permalink: /les-adherents/
 | Gilles Subrenat    | 2025 |
 | Anthony Thibault   | 2025 |
 | Alexandre Vingtier | 2025 |
+
 
 
 ---
