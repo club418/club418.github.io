@@ -26,6 +26,7 @@ permalink: /les-adherents/
 | Yoann Leroux       | 2025 |
 | Ladislas Marchand  | 2025 |
 | Alexandre Nonet    | 2025 |
+| Simon Gautier      | 2025 |
 | Gilles Subrenat    | 2025 |
 | Anthony Thibault   | 2025 |
 | Alexandre Vingtier | 2025 |
