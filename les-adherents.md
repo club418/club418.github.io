@@ -20,6 +20,7 @@ permalink: /les-adherents/
 
 | Nom                | Depuis |
 |--------------------|---|
+| Jérôme Poupault    | 2026 |
 | Simon Jamain       | 2026 |
 | Ambroise Rougier   | 2026 |
 | Patrick Joubert    | 2025 |
@@ -30,7 +31,6 @@ permalink: /les-adherents/
 | Gilles Subrenat    | 2025 |
 | Anthony Thibault   | 2025 |
 | Alexandre Vingtier | 2025 |
-| Jérôme Poupault    | 2026 |
 
 
 
