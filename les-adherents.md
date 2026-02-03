@@ -30,6 +30,7 @@ permalink: /les-adherents/
 | Gilles Subrenat    | 2025 |
 | Anthony Thibault   | 2025 |
 | Alexandre Vingtier | 2025 |
+| Jérôme Poupault    | 2026 |
 
 
 
