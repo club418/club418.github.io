@@ -18,19 +18,20 @@ permalink: /les-adherents/
 
 ## Personnes physiques
 
-| Nom                | Depuis |
-|--------------------|---|
-| Jérôme Poupault    | 2026 |
-| Simon Jamain       | 2026 |
-| Ambroise Rougier   | 2026 |
-| Patrick Joubert    | 2025 |
-| Yoann Leroux       | 2025 |
-| Ladislas Marchand  | 2025 |
-| Alexandre Nonet    | 2025 |
-| Simon Gautier      | 2025 |
-| Gilles Subrenat    | 2025 |
-| Anthony Thibault   | 2025 |
-| Alexandre Vingtier | 2025 |
+| Nom                   | Depuis |
+|-----------------------|--------|
+| Pierre-henri Darthoux |  2026  |
+| Jérôme Poupault       |  2026  |
+| Simon Jamain          |  2026  |
+| Ambroise Rougier      |  2026  |
+| Patrick Joubert       |  2025  |
+| Yoann Leroux          |  2025  |
+| Ladislas Marchand     |  2025  |
+| Alexandre Nonet       |  2025  |
+| Simon Gautier         |  2025  |
+| Gilles Subrenat       |  2025  |
+| Anthony Thibault      |  2025  |
+| Alexandre Vingtier    |  2025  |
 
 
 
