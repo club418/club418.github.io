@@ -20,6 +20,7 @@ permalink: /les-adherents/
 
 | Nom                   | Depuis |
 |-----------------------|--------|
+| Philippe Baudelot     |  2026  |
 | Pierre-henri Darthoux |  2026  |
 | Jérôme Poupault       |  2026  |
 | Simon Jamain          |  2026  |
