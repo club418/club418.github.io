@@ -20,6 +20,7 @@ permalink: /les-adherents/
 
 | Nom                   | Depuis |
 |-----------------------|--------|
+| Quantin Amirault      |  2026  |
 | Pierre Figueroa       |  2026  |
 | Isaac Figueroa        |  2026  |
 | Philippe Baudelot     |  2026  |
