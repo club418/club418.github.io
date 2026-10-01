@@ -28,6 +28,7 @@ permalink: /les-adherents/
 | Jérôme Poupault       |  2026  |
 | Simon Jamain          |  2026  |
 | Ambroise Rougier      |  2026  |
+| Olivier Sorine        |  2026  |
 | Patrick Joubert       |  2025  |
 | Yoann Leroux          |  2025  |
 | Ladislas Marchand     |  2025  |
