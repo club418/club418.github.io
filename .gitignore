@@ -1,0 +1,33 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+.bundle/
+vendor/
+Gemfile.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Docker
+.dockerignore
+
+# Temporary files
+tmp/
+temp/

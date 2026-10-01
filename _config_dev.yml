@@ -1,0 +1,33 @@
+# Configuration de développement pour Jekyll
+# Ce fichier override les valeurs de _config.yml en mode développement
+# Usage: bundle exec jekyll serve --config _config.yml,_config_dev.yml
+
+# URL locale
+url: "http://localhost:4000"
+baseurl: ""
+
+# Afficher les brouillons
+show_drafts: true
+
+# Afficher les posts futurs
+future: true
+
+# Désactiver le cache pour voir les changements immédiatement
+incremental: false
+
+# Afficher plus de détails dans les logs
+verbose: true
+
+# LiveReload (activé automatiquement avec --livereload)
+livereload: true
+
+# Désactiver les limites de posts pour le développement
+limit_posts: 0
+
+# Environnement
+environment: development
+
+# Désactiver certaines optimisations pour le développement
+sass:
+  style: expanded  # CSS non minifié pour le debug (au lieu de compressed)
+  sourcemap: development
