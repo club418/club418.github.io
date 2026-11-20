@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.4"
+gem "jekyll", "~> 4.4"
 
-# Utiliser sassc au lieu de sass-embedded pour éviter les problèmes Docker
-gem "jekyll-sass-converter", "~> 2.2"
+# Version alignée sur l'image Docker jekyll/jekyll
+gem "jekyll-sass-converter", "~> 3.1"
 
 # Thème
 gem "minima", "~> 2.5"
