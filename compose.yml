@@ -2,6 +2,7 @@ services:
   jekyll:
     image: jekyll/jekyll:latest
     container_name: club418-jekyll
+    user: "${JEKYLL_UID:-1000}:${JEKYLL_GID:-1000}"
     command: jekyll serve --host 0.0.0.0 --livereload --force_polling --config _config.yml,_config_dev.yml
     ports:
       - "4000:4000"      # Site web
@@ -11,4 +12,5 @@ services:
     environment:
       - JEKYLL_ENV=development
       - TZ=Europe/Paris
+      - HOME=/tmp
     restart: unless-stopped
