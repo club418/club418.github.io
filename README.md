@@ -1,6 +1,6 @@
 # CLUB 418
 
-Site officiel de l'association CLUB 418, pour la promotion du numérique citoyen à Poitiers.
+CLUB 418, c’est l’asso qui fait vivre le HTTP à Poitiers : on co-organise des meetups et événements web pour créer du lien et partager nos passions.
 
 
 ## Installation locale
