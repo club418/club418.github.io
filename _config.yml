@@ -11,6 +11,9 @@ plugins:
 markdown: kramdown
 permalink: pretty
 
+# Générer aussi les événements datés dans le futur (sinon GitHub Pages les ignore)
+future: true
+
 sass:
   quiet_deps: true
   silence_deprecations:
