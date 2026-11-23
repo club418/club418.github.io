@@ -11,6 +11,13 @@ plugins:
 markdown: kramdown
 permalink: pretty
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+
 header_pages:
   - index.md
   - projet-associatif.md
